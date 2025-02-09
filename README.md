@@ -20,11 +20,11 @@ This project analyzes **car sales trends** using **Excel pivot tables and data v
 
 ## 📂 Dataset Links:
 - 🔗 **Original Dataset:** [Kaggle Car Sales Data](https://www.kaggle.com/gagandeep16/car-sales)  
-- 🔗 **Refined Dataset (Processed Data):** [GitHub Repository](https://github.com/M33ibrahim/Excel-Car-Sales-Analysis)
+- 🔗 **Refined Dataset (Processed Data):** (https://github.com/M33ibrahim/Excel-Car-Sales-Analysis./tree/main)
 
 ## 📩 Connect with me:
 - **Kaggle:** [ibrahimryk](https://www.kaggle.com/ibrahimryk)  
 - **GitHub:** [M33ibrahim](https://github.com/M33ibrahim)  
 - **LinkedIn:** [m135ibrahim](https://www.linkedin.com/in/m135ibrahim/)  
 
-👉 **GitHub Repo:** [Excel-Car-Sales-Analysis](https://github.com/M33ibrahim/Excel-Car-Sales-Analysis)
+👉 **GitHub Repo:** https://github.com/M33ibrahim/Excel-Car-Sales-Analysis./tree/main
