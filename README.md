@@ -1,30 +1,47 @@
-# 🚗 Excel Car Sales Data Analysis
-## Overview
-This project analyzes **car sales trends** using **Excel pivot tables and data visualization techniques**.
+# Car Sales Analysis | Excel PivotTables & Visualizations
 
-### 📌 Data Sources:
-1️⃣ **Original Dataset**: [Car Sales Dataset on Kaggle](https://www.kaggle.com/gagandeep16/car-sales)  
-2️⃣ **Refined Dataset**: Cleaned and modified dataset based on data analysis insights.
+An exploratory Excel portfolio project comparing car sales, vehicle performance, and resale-value measures across manufacturers and models.
 
-### 🔍 Key Insights:
-✅ **Power Performance Factor comparison** across manufacturers.  
-✅ **Unit sales trends** visualized using area charts.  
-✅ **Retention % and resale value analysis**.  
-✅ **Pivot table insights using bar & line charts**.
+## Business questions
 
-## 🛠 Tools Used:
-- **Microsoft Excel for the Web**
-- **Pivot Tables & Data Visualization**
+- How do sales volumes compare across vehicle models?
+- How does the power performance factor vary?
+- How do resale-value retention measures compare across Japanese manufacturers?
 
+## Files and results
 
+| File | Purpose |
+| --- | --- |
+| [Car Sales Dataset on Kaggle .xlsx](<Car Sales Dataset on Kaggle .xlsx>) | Source workbook supplied with the project |
+| [Processed data with visualizations and insights .xlsx](<Processed data with visualizations and insights .xlsx>) | Processed workbook and visualizations |
+| [Average Retention % of Japanese Auto Manufacturers.png](<Average Retention % of Japanese Auto Manufacturers.png>) | Retention comparison |
+| [Power Perf Factor of Toyota Cars.png](<Power Perf Factor of Toyota Cars.png>) | Toyota performance comparison |
+| [area chart.png](<area chart.png>) | Additional visualization |
+| [bar chart.png](<bar chart.png>) | Additional visualization |
 
-## 📂 Dataset Links:
-- 🔗 **Original Dataset:** [Kaggle Car Sales Data](https://www.kaggle.com/gagandeep16/car-sales)  
-- 🔗 **Refined Dataset (Processed Data):** (https://github.com/M33ibrahim/Excel-Car-Sales-Analysis./tree/main)
+## Visual examples
 
-## 📩 Connect with me:
-- **Kaggle:** [ibrahimryk](https://www.kaggle.com/ibrahimryk)  
-- **GitHub:** [M33ibrahim](https://github.com/M33ibrahim)  
-- **LinkedIn:** [m135ibrahim](https://www.linkedin.com/in/m135ibrahim/)  
+![Retention comparison](<Average Retention % of Japanese Auto Manufacturers.png>)
 
-👉 **GitHub Repo:** https://github.com/M33ibrahim/Excel-Car-Sales-Analysis./tree/main
+![Toyota power performance factor](<Power Perf Factor of Toyota Cars.png>)
+
+## How to review
+
+1. Open the processed workbook in Excel.
+2. Inspect the source fields and PivotTable aggregations.
+3. Compare the charts with the underlying table.
+4. Confirm units and missing-value treatment before drawing conclusions.
+
+## Source and interpretation
+
+The original README credits the [Car Sales dataset on Kaggle](https://www.kaggle.com/gagandeep16/car-sales).
+
+Retention in a vehicle resale analysis should not be interpreted as customer loyalty. Charts across models represent comparisons; a time trend requires a date-based series. This project is exploratory and does not establish causation.
+
+## Skills demonstrated
+
+Microsoft Excel · PivotTables · data preparation · comparative analysis · chart design
+
+## Author
+
+[Muhammad Ibrahim](https://www.linkedin.com/in/m135ibrahim/) · [GitHub portfolio](https://github.com/M33ibrahim)
